@@ -12,5 +12,5 @@ pip install pystyle
 ```
 python loading.py
 ```
-[Install Python](https://www.python.org/downloads/) | [Git Clone](https://github.com/natrixdev/python-loading-screen) | [Developer](@natrixdev)
+[Install Python](https://www.python.org/downloads/) | [Git Clone](https://github.com/natrixdev/python-loading-screen) | [Developer](https://github.com/natrixdev)
 
