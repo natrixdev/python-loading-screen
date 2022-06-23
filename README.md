@@ -1,4 +1,4 @@
-# python-loading-screen
+# Loading Screen 
 A loading screen for your python console ! By @natrixdev
 
 # How To Use ? 
